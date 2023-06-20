@@ -1,0 +1,45 @@
+﻿@model List<Blog>;
+
+<h1>Courses</h1>
+
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Basic Table</h4>
+        <p class="card-description">
+            Add class <code>.table</code>
+        </p>
+        <div class="table-responsive">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Image</th>
+                        <th>Title</th>
+                        <th>Description</th>
+                        <th></th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var course in Model)
+                    {
+                        <tr>
+                            <td><img width="130" height="130" style="border-radius:50%" src="~/@course.ImageUrl"></td>
+                            <td>@course.Title</td>
+                            <td>@course.Description</td>
+                            <td><a asp asp-action="details" asp-route-id="@course.Id" class="btn btn-warning">Details</a></td>
+
+                            <td>
+                                <form asp-action="Delete" method="post">
+                                    <input type="hidden" name="id" value="@course.Id" />
+                                    <button type="submit" class="btn btn-danger">Delete</button>
+                                </form>
+                            </td>
+
+                            <td><a asp-action="update" asp-route-id="@course.Id" class="btn btn-outline-warning">Update</a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

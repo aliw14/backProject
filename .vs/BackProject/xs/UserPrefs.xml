@@ -1,0 +1,135 @@
+﻿<Properties StartupConfiguration="{F827D309-D69C-4A0E-B79C-0EEF23284D2C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BackProject/Areas/AdminPanel/Controllers/TeacherPhotoController.cs">
+    <Files>
+      <File FileName="BackProject/Controllers/TeacherController.cs" Line="46" Column="60" />
+      <File FileName="BackProject/Views/Teacher/Index.cshtml" Line="150" Column="35" />
+      <File FileName="BackProject/Views/Shared/_Layout.cshtml" Line="16" Column="5" />
+      <File FileName="BackProject/wwwroot/js/main.js" Line="58" Column="32" />
+      <File FileName="BackProject/Views/Shared/_SearchedTeacherPartial.cshtml" Line="1" Column="1" />
+      <File FileName="BackProject/Views/account/login.cshtml" />
+      <File FileName="BackProject/Views/Event/Index.cshtml" Line="39" Column="1" />
+      <File FileName="BackProject/Views/Shared/Components/Footer/Default.cshtml" />
+      <File FileName="BackProject/wwwroot/css/style.css" />
+      <File FileName="BackProject/Controllers/AccountController.cs" Line="81" Column="21" />
+      <File FileName="BackProject/Areas/AdminPanel/Controllers/BlogController.cs" />
+      <File FileName="BackProject/Areas/AdminPanel/Controllers/CourseController.cs" Line="1" Column="1" />
+      <File FileName="BackProject/Areas/AdminPanel/Controllers/TeacherController.cs" Line="106" Column="1" />
+      <File FileName="BackProject/Areas/AdminPanel/Views/Blog/Create.cshtml" />
+      <File FileName="BackProject/Areas/AdminPanel/Views/Blog/Details.cshtml" />
+      <File FileName="BackProject/Areas/AdminPanel/Views/Blog/Index.cshtml" />
+      <File FileName="BackProject/Areas/AdminPanel/Views/Blog/Update.cshtml" />
+      <File FileName="BackProject/Views/Course/Index.cshtml" Line="41" Column="1" />
+      <File FileName="BackProject/Views/Contact/Index.cshtml" Line="39" Column="1" />
+      <File FileName="BackProject/Views/Blog/Index.cshtml" Line="39" Column="1" />
+      <File FileName="BackProject/Views/About/Index.cshtml" Line="43" Column="55" />
+      <File FileName="BackProject/DataAccessLayer/Entities/Footer.cs" Line="4" Column="15" />
+      <File FileName="BackProject/Views/Shared/_TeacherPartial.cshtml" Line="4" Column="28" />
+      <File FileName="BackProject/Views/Home/Index.cshtml" />
+      <File FileName="BackProject/DataAccessLayer/Entities/Teacher.cs" Line="19" Column="19" />
+      <File FileName="BackProject/Areas/AdminPanel/Controllers/TeacherPhotoController.cs" Line="62" Column="1" />
+      <File FileName="BackProject/Areas/AdminPanel/Views/TeacherPhoto/Index.cshtml" Line="23" Column="11" />
+      <File FileName="BackProject/Areas/AdminPanel/Views/Teacher/Index.cshtml" Line="1" Column="1" />
+      <File FileName="BackProject/Areas/AdminPanel/Views/Shared/_AdminLayout.cshtml" Line="231" Column="26" />
+      <File FileName="BackProject/Views/account/register.cshtml" />
+      <File FileName="BackProject/Controllers/SignUpController.cs" />
+      <File FileName="BackProject/Controllers/LoginController.cs" />
+      <File FileName="BackProject/ViewModels/LoginViewModel.cs" />
+      <File FileName="BackProject/ViewModels/RegisterViewModel.cs" />
+      <File FileName="BackProject/DataAccessLayer/User.cs" />
+      <File FileName="BackProject/ViewModels/TeacherViewModel.cs" />
+      <File FileName="BackProject/Data/RequestEmail.cs" Line="14" Column="1" />
+      <File FileName="BackProject/Program.cs" Line="16" Column="84" />
+      <File FileName="BackProject/Areas/AdminPanel/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="BackProject/Areas/AdminPanel/Views/DashBoard/Index.cshtml" Line="1" Column="1" />
+      <File FileName="BackProject/Areas/AdminPanel/Controllers/AdminController.cs" Line="12" Column="29" />
+      <File FileName="BackProject/Areas/AdminPanel/Controllers/DashBoardController.cs" Line="1" Column="1" />
+      <File FileName="BackProject/Views/Shared/Components/Header/Default.cshtml" Line="4" Column="43" />
+      <File FileName="BackProject/ViewComponents/FooterViewComponent.cs" Line="1" Column="1" />
+      <File FileName="BackProject/ViewComponents/HeaderViewComponent.cs" Line="21" Column="22" />
+      <File FileName="BackProject/DataAccessLayer/Entities/Header.cs" Line="8" Column="39" />
+      <File FileName="BackProject/DataAccessLayer/Entities/AppDbContext.cs" Line="21" Column="1" />
+      <File FileName="BackProject/Views/_ViewImports.cshtml" Line="4" Column="1" />
+      <File FileName="BackProject/Services/IMailService.cs" Line="1" Column="1" />
+      <File FileName="BackProject/Data/LocalizeIdentityError.cs" Line="1" Column="1" />
+      <File FileName="BackProject/Views/account/AccessDenied.cshtml" Line="1" Column="17" />
+      <File FileName="BackProject/Data/DataInitializer.cs" Line="25" Column="1" />
+      <File FileName="BackProject/Data/RoleConstants.cs" Line="8" Column="51" />
+      <File FileName="BackProject/Views/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="BackProject/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="BackProject/DataAccessLayer/Entities/Blog.cs" Line="6" Column="15" />
+      <File FileName="BackProject/DataAccessLayer/Entities/TestEntity.cs" Line="12" Column="1" />
+      <File FileName="BackProject/Areas/AdminPanel/Views/TeacherPhoto/Create.cshtml" Line="1" Column="13" />
+      <File FileName="BackProject/Areas/AdminPanel/Views/Course/Create.cshtml" Line="8" Column="19" />
+      <File FileName="BackProject/Areas/AdminPanel/Data/Constants.cs" Line="4" Column="15" />
+      <File FileName="BackProject/Areas/AdminPanel/Views/Event/Create.cshtml" Line="8" Column="17" />
+      <File FileName="BackProject/Areas/AdminPanel/Controllers/EventPhotoController.cs" Line="65" Column="49" />
+      <File FileName="BackProject/Areas/AdminPanel/Views/EventPhoto/Index.cshtml" Line="14" Column="40" />
+      <File FileName="BackProject/Areas/AdminPanel/Views/EventPhoto/Create.cshtml" Line="15" Column="82" />
+      <File FileName="BackProject/DataAccessLayer/Entities/Event.cs" Line="6" Column="15" />
+      <File FileName="BackProject/Areas/AdminPanel/Controllers/EventController.cs" Line="1" Column="1" />
+      <File FileName="BackProject/Areas/AdminPanel/Controllers/CoursePhotoController.cs" Line="65" Column="56" />
+      <File FileName="BackProject/DataAccessLayer/Entities/Courses.cs" Line="20" Column="1" />
+      <File FileName="BackProject/Areas/AdminPanel/Views/CoursePhoto/Index.cshtml" Line="33" Column="25" />
+      <File FileName="BackProject/Areas/AdminPanel/Views/CoursePhoto/Create.cshtml" Line="33" Column="1" />
+      <File FileName="BackProject/Areas/AdminPanel/Views/Event/Index.cshtml" Line="1" Column="1" />
+      <File FileName="BackProject/Areas/AdminPanel/Views/Course/Index.cshtml" Line="18" Column="33" />
+      <File FileName="BackProject/Areas/AdminPanel/Views/Teacher/Create.cshtml" Line="25" Column="1" />
+      <File FileName="BackProject/Areas/AdminPanel/Controllers/BlogPhotoController.cs" Line="52" Column="1" />
+      <File FileName="BackProject/Areas/AdminPanel/Views/BlogPhoto/Index.cshtml" Line="16" Column="29" />
+      <File FileName="BackProject/Areas/AdminPanel/Views/BlogPhoto/Create.cshtml" Line="11" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BackProject" expanded="True">
+            <Node name="BackProject" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Areas" expanded="True">
+                <Node name="AdminPanel" expanded="True">
+                  <Node name="Controllers" expanded="True">
+                    <Node name="TeacherPhotoController.cs" selected="True" />
+                  </Node>
+                  <Node name="Data" expanded="True" />
+                  <Node name="Views" expanded="True">
+                    <Node name="BlogPhoto" expanded="True" />
+                    <Node name="Course" expanded="True" />
+                    <Node name="CoursePhoto" expanded="True" />
+                    <Node name="DashBoard" expanded="True" />
+                    <Node name="Event" expanded="True" />
+                    <Node name="EventPhoto" expanded="True" />
+                    <Node name="Shared" expanded="True" />
+                    <Node name="Teacher" expanded="True" />
+                    <Node name="TeacherPhoto" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="DataAccessLayer" expanded="True">
+                <Node name="Entities" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="About" expanded="True" />
+                <Node name="account" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="Footer" expanded="True" />
+                    <Node name="Header" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Teacher" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BackProject PreferredExecutionTarget="/Users/ali/Desktop/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

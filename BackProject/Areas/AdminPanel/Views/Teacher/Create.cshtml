@@ -1,0 +1,24 @@
+﻿@model Teacher
+<div class="row">
+    <div class="col-md-6 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Add Teacher</h4>
+                <form class="forms-sample" method="post">
+                    <div class="form-group">
+                        <label asp-for="Name">Name</label>
+                        <input asp-for="Name" class="form-control"  placeholder="Name">
+                        <span asp-validation-for="Name"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Speciality">Speciality</label>
+                        <input asp-for="Speciality" class="form-control"  placeholder="Speciality">
+                    </div>
+                    <button type="submit" class="btn btn-primary mr-2">Submit</button>
+                    <button class="btn btn-light" asp-controller="index">Cancel</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+

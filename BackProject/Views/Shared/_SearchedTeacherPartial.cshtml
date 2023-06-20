@@ -1,0 +1,13 @@
+﻿@using BackProject.DataAccessLayer.Entities
+@model List<Teacher>
+
+@foreach (var item in Model)
+{
+    <li>
+         <a asp-controller="teacher" asp-action="details" asp-route-id="@item.Id">
+              @item.Name
+         </a>
+    </li>
+}
+
+
