@@ -59,9 +59,7 @@
     <Folder Include="Areas\AdminPanel\Views\Course\" />
     <Folder Include="Areas\AdminPanel\Views\Event\" />
     <Folder Include="Areas\AdminPanel\Views\Blog\" />
-    <Folder Include="Areas\AdminPanel\Views\TeacherPhoto\" />
     <Folder Include="Views\Shared\Components\Header\" />
-    <Folder Include="Areas\AdminPanel\Views\EventPhoto\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Views\About\" />
@@ -93,9 +91,7 @@
     <None Remove="Areas\AdminPanel\Views\Course\" />
     <None Remove="Areas\AdminPanel\Views\Event\" />
     <None Remove="Areas\AdminPanel\Views\Blog\" />
-    <None Remove="Areas\AdminPanel\Views\TeacherPhoto\" />
     <None Remove="Views\Shared\Components\Header\" />
-    <None Remove="Areas\AdminPanel\Views\EventPhoto\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.16">

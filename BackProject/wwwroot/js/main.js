@@ -35,7 +35,6 @@
             type: "GET",
 
             success: function (response) {
-                console.log("hgj");
                 $("#searchedProduct").slice(1);
                 $("#searchedProduct").append(response);
             },

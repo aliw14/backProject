@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QzUKIzKlB52PvvFU4Komn29WdtKu3wYdI7yXs9yTgT0=",
+  "Hash": "cbOBYibtEAQiqKe4KmdJXXtUlHq7hWBhg0ALhWbpC+4=",
   "Source": "BackProject",
   "BasePath": "_content/BackProject",
   "Mode": "Default",
@@ -2703,23 +2703,6 @@
       "OriginalItemSpec": "wwwroot/img/bf59d4c4-3b21-4fb2-84c3-b5943508215d-ucard (1).webp"
     },
     {
-      "Identity": "/Users/ali/Projects/BackProject/BackProject/wwwroot/img/blog/30fc06d0-4f86-4ab0-9160-5e5a9ceea077-ucard (3).webp",
-      "SourceId": "BackProject",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/ali/Projects/BackProject/BackProject/wwwroot/",
-      "BasePath": "_content/BackProject",
-      "RelativePath": "img/blog/30fc06d0-4f86-4ab0-9160-5e5a9ceea077-ucard (3).webp",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/blog/30fc06d0-4f86-4ab0-9160-5e5a9ceea077-ucard (3).webp"
-    },
-    {
       "Identity": "/Users/ali/Projects/BackProject/BackProject/wwwroot/img/blog/blog-detail.jpg",
       "SourceId": "BackProject",
       "SourceType": "Discovered",
@@ -3145,23 +3128,6 @@
       "OriginalItemSpec": "wwwroot/img/course/courses-details.jpg"
     },
     {
-      "Identity": "/Users/ali/Projects/BackProject/BackProject/wwwroot/img/course/e044c040-3d57-4fff-9307-57a9b7e7ceac-ucard (3).webp",
-      "SourceId": "BackProject",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/ali/Projects/BackProject/BackProject/wwwroot/",
-      "BasePath": "_content/BackProject",
-      "RelativePath": "img/course/e044c040-3d57-4fff-9307-57a9b7e7ceac-ucard (3).webp",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/course/e044c040-3d57-4fff-9307-57a9b7e7ceac-ucard (3).webp"
-    },
-    {
       "Identity": "/Users/ali/Projects/BackProject/BackProject/wwwroot/img/event/event-details.jpg",
       "SourceId": "BackProject",
       "SourceType": "Discovered",
@@ -3364,23 +3330,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/img/event/event8.jpg"
-    },
-    {
-      "Identity": "/Users/ali/Projects/BackProject/BackProject/wwwroot/img/event/event9.jpg",
-      "SourceId": "BackProject",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/ali/Projects/BackProject/BackProject/wwwroot/",
-      "BasePath": "_content/BackProject",
-      "RelativePath": "img/event/event9.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/event/event9.jpg"
     },
     {
       "Identity": "/Users/ali/Projects/BackProject/BackProject/wwwroot/img/event/speaker1.jpg",
@@ -3706,6 +3655,23 @@
       "OriginalItemSpec": "wwwroot/img/slider/slider3.jpg"
     },
     {
+      "Identity": "/Users/ali/Projects/BackProject/BackProject/wwwroot/img/teacher/9752f322-4dad-46fe-a5c0-54f33f14469a-52F91417-E8EB-4F89-A584-D8A61559529B.jpeg",
+      "SourceId": "BackProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ali/Projects/BackProject/BackProject/wwwroot/",
+      "BasePath": "_content/BackProject",
+      "RelativePath": "img/teacher/9752f322-4dad-46fe-a5c0-54f33f14469a-52F91417-E8EB-4F89-A584-D8A61559529B.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/teacher/9752f322-4dad-46fe-a5c0-54f33f14469a-52F91417-E8EB-4F89-A584-D8A61559529B.jpeg"
+    },
+    {
       "Identity": "/Users/ali/Projects/BackProject/BackProject/wwwroot/img/teacher/teacher-details.jpg",
       "SourceId": "BackProject",
       "SourceType": "Discovered",
@@ -3772,40 +3738,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/img/teacher/teacher11.jpg"
-    },
-    {
-      "Identity": "/Users/ali/Projects/BackProject/BackProject/wwwroot/img/teacher/teacher12.jpg",
-      "SourceId": "BackProject",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/ali/Projects/BackProject/BackProject/wwwroot/",
-      "BasePath": "_content/BackProject",
-      "RelativePath": "img/teacher/teacher12.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/teacher/teacher12.jpg"
-    },
-    {
-      "Identity": "/Users/ali/Projects/BackProject/BackProject/wwwroot/img/teacher/teacher2.jpg",
-      "SourceId": "BackProject",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/ali/Projects/BackProject/BackProject/wwwroot/",
-      "BasePath": "_content/BackProject",
-      "RelativePath": "img/teacher/teacher2.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/teacher/teacher2.jpg"
     },
     {
       "Identity": "/Users/ali/Projects/BackProject/BackProject/wwwroot/img/teacher/teacher3.jpg",

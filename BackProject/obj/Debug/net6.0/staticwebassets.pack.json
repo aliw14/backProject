@@ -629,10 +629,6 @@
       "PackagePath": "staticwebassets/img/bf59d4c4-3b21-4fb2-84c3-b5943508215d-ucard (1).webp"
     },
     {
-      "Id": "/Users/ali/Projects/BackProject/BackProject/wwwroot/img/blog/30fc06d0-4f86-4ab0-9160-5e5a9ceea077-ucard (3).webp",
-      "PackagePath": "staticwebassets/img/blog/30fc06d0-4f86-4ab0-9160-5e5a9ceea077-ucard (3).webp"
-    },
-    {
       "Id": "/Users/ali/Projects/BackProject/BackProject/wwwroot/img/blog/blog-detail.jpg",
       "PackagePath": "staticwebassets/img/blog/blog-detail.jpg"
     },
@@ -733,10 +729,6 @@
       "PackagePath": "staticwebassets/img/course/courses-details.jpg"
     },
     {
-      "Id": "/Users/ali/Projects/BackProject/BackProject/wwwroot/img/course/e044c040-3d57-4fff-9307-57a9b7e7ceac-ucard (3).webp",
-      "PackagePath": "staticwebassets/img/course/e044c040-3d57-4fff-9307-57a9b7e7ceac-ucard (3).webp"
-    },
-    {
       "Id": "/Users/ali/Projects/BackProject/BackProject/wwwroot/img/event/event-details.jpg",
       "PackagePath": "staticwebassets/img/event/event-details.jpg"
     },
@@ -783,10 +775,6 @@
     {
       "Id": "/Users/ali/Projects/BackProject/BackProject/wwwroot/img/event/event8.jpg",
       "PackagePath": "staticwebassets/img/event/event8.jpg"
-    },
-    {
-      "Id": "/Users/ali/Projects/BackProject/BackProject/wwwroot/img/event/event9.jpg",
-      "PackagePath": "staticwebassets/img/event/event9.jpg"
     },
     {
       "Id": "/Users/ali/Projects/BackProject/BackProject/wwwroot/img/event/speaker1.jpg",
@@ -865,6 +853,10 @@
       "PackagePath": "staticwebassets/img/slider/slider3.jpg"
     },
     {
+      "Id": "/Users/ali/Projects/BackProject/BackProject/wwwroot/img/teacher/9752f322-4dad-46fe-a5c0-54f33f14469a-52F91417-E8EB-4F89-A584-D8A61559529B.jpeg",
+      "PackagePath": "staticwebassets/img/teacher/9752f322-4dad-46fe-a5c0-54f33f14469a-52F91417-E8EB-4F89-A584-D8A61559529B.jpeg"
+    },
+    {
       "Id": "/Users/ali/Projects/BackProject/BackProject/wwwroot/img/teacher/teacher-details.jpg",
       "PackagePath": "staticwebassets/img/teacher/teacher-details.jpg"
     },
@@ -879,14 +871,6 @@
     {
       "Id": "/Users/ali/Projects/BackProject/BackProject/wwwroot/img/teacher/teacher11.jpg",
       "PackagePath": "staticwebassets/img/teacher/teacher11.jpg"
-    },
-    {
-      "Id": "/Users/ali/Projects/BackProject/BackProject/wwwroot/img/teacher/teacher12.jpg",
-      "PackagePath": "staticwebassets/img/teacher/teacher12.jpg"
-    },
-    {
-      "Id": "/Users/ali/Projects/BackProject/BackProject/wwwroot/img/teacher/teacher2.jpg",
-      "PackagePath": "staticwebassets/img/teacher/teacher2.jpg"
     },
     {
       "Id": "/Users/ali/Projects/BackProject/BackProject/wwwroot/img/teacher/teacher3.jpg",

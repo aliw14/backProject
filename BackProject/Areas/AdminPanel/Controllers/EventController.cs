@@ -59,7 +59,7 @@ namespace BackProject.Areas.AdminPanel.Controllers
 
             if (isExist)
             {
-                ModelState.AddModelError("Title", "Bu Kurs Artıq Mövcuddur");
+                ModelState.AddModelError("Title", "Bu Event Artıq Mövcuddur");
                 return View();
             }
 
@@ -159,7 +159,7 @@ namespace BackProject.Areas.AdminPanel.Controllers
 
             if (isExist)
             {
-                ModelState.AddModelError("Title", "Bu Kurs Artıq Mövcuddur");
+                ModelState.AddModelError("Title", "Bu Event Artıq Mövcuddur");
                 return View();
             }
 

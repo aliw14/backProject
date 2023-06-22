@@ -1,25 +1,33 @@
 ﻿@model Event
-<div class="row">
-    <div class="col-md-6 grid-margin stretch-card">
-        <div class="card">
-            <div class="card-body">
-                <h4 class="card-title">Add Event</h4>
-                <form class="forms-sample" method="post">
-                    <div class="form-group">
-                        <label asp-for="Title">Title</label>
-                        <input asp-for="Title" class="form-control" placeholder="Title">
-                        <span asp-validation-for="Title"></span>
-                    </div>
-                    <div class="form-group">
-                        <label asp-for="Time">Time</label>
-                        <input asp-for="Time" class="form-control" placeholder="Time">
-                    </div>
-                    <button type="submit" class="btn btn-primary mr-2">Submit</button>
-                    <button class="btn btn-light" asp-controller="index">Cancel</button>
-                </form>
-            </div>
+
+<div class="col-md-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Create Course</h4>
+            <p class="card-description">
+                Course Form
+            </p>
+            <form class="forms-sample" enctype="multipart/form-data" method="post">
+                <div class="form-group">
+                    <label asp-for="Title">Title</label>
+                    <input asp-for="Title" class="form-control" id="exampleInputUsername1" placeholder="Title...">
+                    <span asp-validation-for="Title"></span>
+                </div>
+
+                <div class="form-group" enctype="multipart/form-data">
+                    <label asp-for="Photo">Image</label>
+                    <input asp-for="Photo" class="form-control" id="exampleInputUsername1" accept="image/*" placeholder="Image...">
+                    <span asp-validation-for="Photo"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Time">Time</label>
+                    <input asp-for="Time" class="form-control" id="exampleInputEmail1" placeholder="Time...">
+                </div>
+
+                <button type="submit" class="btn btn-primary mr-2">Create</button>
+                <button asp-action="index" class="btn btn-light">Cancel</button>
+            </form>
         </div>
     </div>
 </div>
-
-

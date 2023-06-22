@@ -49,6 +49,15 @@ namespace BackProject.Controllers
 
             return PartialView("_TeacherPartial", teachers);
         }
+
+        public IActionResult Details(int? id)
+        {
+            if (id is null) return NotFound();
+
+            var teacher = _dbcontext.Teachers.FirstOrDefault(t => t.Id == id);
+
+            return View(teacher);
+        }
     }
 }
 
